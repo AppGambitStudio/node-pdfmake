@@ -18,3 +18,9 @@ node basic_data.js
 node basic_async.js
 node complex_view.js
 ```
+
+## Complex PDF Example
+
+Please refer to the `complex_view.js` example to generate PDF like this.
+
+![](./images/complex_pdf.png)
