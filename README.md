@@ -12,8 +12,9 @@ v16.20.1
 npm i
 node basic.js
 node custom_document.js
-node custom_stule_fonts.js
-node tables.js
+node custom_style_fonts.js
+node custom_tables.js
 node basic_data.js
 node basic_async.js
+node complex_view.js
 ```
